@@ -4,3 +4,9 @@
 Files/configs/settings.json doldurmanız yeterlidir 
 
 Lütfen izinsiz paylaşmayınız.
+
+Gerekenler ;
+
+npm i discord.js 
+npm i opusscript
+ffmpeg *
